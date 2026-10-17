@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+*.zip
+*.bin
+*.before
+test-fixtures/
+compact-backup-tests/
+*-tests.json
